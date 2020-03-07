@@ -1,5 +1,6 @@
 # Portfolio
 
+This place will keep evolving as the website grows. This is the init commit. 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.5.
 
 ## Development server
