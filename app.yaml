@@ -1,0 +1,9 @@
+# [START runtime]
+runtime: nodejs12
+handlers:
+- url: /
+  static_files: dist/portfolio/index.html
+  upload: dist/portfolio/index.html
+- url: /
+  static_dir: dist/portfolio
+# [END runtime]

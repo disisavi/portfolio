@@ -5,8 +5,9 @@ import { Component, OnInit } from '@angular/core';
   templateUrl: './landing.component.html',
   styleUrls: ['./landing.component.css']
 })
+
 export class LandingComponent implements OnInit {
-  hero: String  = "The landing page"
+  titleMessage:String = "The Language Agnostic Developer"
   constructor() { }
 
   ngOnInit(): void {
